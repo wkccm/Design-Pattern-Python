@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- coding: utf-8 -*- 
 
 # bridge
 # 桥接模式

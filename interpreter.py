@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- coding: utf-8 -*- 
 
 # interpreter
 # 解释器模式

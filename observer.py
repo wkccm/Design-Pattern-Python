@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- coding: utf-8 -*- 
 
 # observer
 # 观察者模式

@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- coding: utf-8 -*- 
 
 # simple factory
 # 简单工厂模式
